@@ -21,6 +21,7 @@ executable LibrarySystem
   -- other-modules:
   -- other-extensions:
   build-depends:       base >=4.12 && <4.13,
+                       process,
                        postgresql-simple >= 0.6,
                        time >=1.8 && <2.0,
                        regex-posix

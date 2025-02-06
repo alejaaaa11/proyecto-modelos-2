@@ -1,0 +1,16 @@
+Ficción 12
+Ciencia Ficción 9
+Fantasía 7
+Horror 7
+Clásico 7
+Realismo Mágico 6
+Thriller 6
+Ficción Juvenil 5
+Romance 5
+Fantasía Juvenil 5
+Aventura 2
+Histórico 2
+Drama 1
+Autobiografía 1
+Fábula 1
+Misterio 1
